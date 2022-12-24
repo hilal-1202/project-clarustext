@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*! ------  CSS sabit başlangıç------*/
+body {
+  background-color: #e8d6d0;
+  /* height: 100vh; */
+}
+
+p {
+  color: blue;
+  font-size: 2rem;
+  overflow: hidden;
+  margin-top: 15%;
+  padding: 20px;
+}
+
+div {
+  background-color: #dc6c5e;
+  border: 4px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px black;
+}
+
+img {
+  border-radius: 10rem;
+  border: 3px solid black;
+}
+
+/*! ------  CSS sabit bitiş ------*/
+
+/*! ----- 1.Yöntem başlangıç ---- */
+/*? margin, padding, whith, height*/
+/** img div'in içinde */
+
+div {
+  width: 70%;
+  height: 60vh;
+  margin: auto;
+  margin-top: 20vh;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  margin-top: -150px;
+}
+
+/*! ----- 1.Yöntem bitiş ---- */
